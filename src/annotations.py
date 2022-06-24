@@ -1,6 +1,7 @@
 
 """
     Propaganda Plot
+    No david ya te he dicho que no
 """
 def annotate_arrows(ax, xmin, ymin, offset, length, x_text, y_text, text_offset):
 
