@@ -1,2 +1,2 @@
 # PyPlotUtility
-Translation from Ludwig PyPlotutility julia scripts into python
+A utility to ease large data visualization
